@@ -8,7 +8,7 @@
 @endsection
 
 @section('page-script')
-  <script src="{{ asset(mix('js/scripts/auth/login.js')) }}"></script>
+  
 @endsection
 
 @section('content')
